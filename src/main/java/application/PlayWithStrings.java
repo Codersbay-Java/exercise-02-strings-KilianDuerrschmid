@@ -8,7 +8,7 @@ public class PlayWithStrings {
 	/**
 	 * TODO: print initials
 	 * 
-	 * This method should print out the initials of a name to standard out.
+	 * This method should print out the initials of a name to standard out. (sysout)
 	 * 
 	 * @param firstname
 	 * @param lastname
